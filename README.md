@@ -1,17 +1,18 @@
-# flutter_chess_game
-for all those who love playing chess!!
-A new Flutter project.
+# Flutter_Chess_Game
+
+For all those who love playing chess!!
+This project is created using Flutter.
 We can play the chess game
 Built with :heart: in flutter
 used package - flutter_chess_board 0.9.4
 
 Update the plugin when you are forking the repo
 
-# The screenshorts are as below
+## The screenshorts are as below
 
 ![](ches1.jpg)
 
-#
+##
 
 ![](ches2.jpg)
 
