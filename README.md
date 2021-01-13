@@ -1,5 +1,5 @@
 # flutter_chess_game
-
+for all those who love playing chess!!
 A new Flutter project.
 We can play the chess game
 Built with :heart: in flutter
